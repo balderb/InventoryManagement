@@ -7,7 +7,7 @@ public class BodyShell {
     private String type;
     private boolean isPurchasable;
 
-    private ArrayList<String> bodyShellType = new ArrayList<>();
+    private final  ArrayList<String> bodyShellType = new ArrayList<>();
 
     private static int numberOfSport;
     private static int numberOfClassic;

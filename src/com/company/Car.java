@@ -1,4 +1,3 @@
 package com.company;
 
-public interface Car {
-}
+public interface Car { }
